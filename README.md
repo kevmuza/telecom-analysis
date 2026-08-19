@@ -29,11 +29,11 @@
     - Minutos de llamadas.
     - Distribución y valores extremos del consumo.
   5. **Segmentación**
-  - Segmentación por edad:
+    <- Segmentación por edad:
       - Joven: < 30
       - Adulto: 30–59
       - Adulto Mayor: ≥ 60<br>
-  - Segmentación por nivel de uso:
+    <- Segmentación por nivel de uso:
       - Bajo uso.
       - Uso medio.
       - Alto uso.
