@@ -1,4 +1,4 @@
-📊 Análisis de clientes — ConnectaTel
+### 📊 Análisis de clientes — ConnectaTel
 ### el objetivo del proyecto
 
 ### los datasets utilizados
