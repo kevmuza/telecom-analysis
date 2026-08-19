@@ -39,7 +39,7 @@
       - Uso medio.
       - Alto uso.
   6. **Análisis de planes**<br>
-    - Comparación entre usuarios del plan básico y premium.
+    - Comparación entre usuarios del plan básico y premium. 
     - Identificación de oportunidades de migración y retención.
   7. **Conclusiones y recomendaciones**<br>
     - Identificación de segmentos relevantes.
