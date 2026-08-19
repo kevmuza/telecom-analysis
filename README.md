@@ -20,27 +20,27 @@
     - Se conservaron los valores nulos de churn_date, ya que representan usuarios activos.
     - Se decidió ignorar city, porque no era necesaria para los objetivos del análisis.
     - Identificación y análisis de outliers.
-  3. Integración de la información
+  3. **Integración de la información**
     - Se relacionaron los datos de usuarios, planes y uso.
     - Se creó el dataframe user_profile para analizar el comportamiento individual de los clientes.
-  4. Análisis de consumo
+  4. **Análisis de consumo**
     - Cantidad de mensajes.
     - Cantidad de llamadas.
     - Minutos de llamadas.
     - Distribución y valores extremos del consumo.
-  5. Segmentación
-    - Segmentación por edad:
+  5. **Segmentación**
+  - Segmentación por edad:
       - Joven: < 30
       - Adulto: 30–59
       - Adulto Mayor: ≥ 60<br>
-    - Segmentación por nivel de uso:
+  - Segmentación por nivel de uso:
       - Bajo uso.
       - Uso medio.
       - Alto uso.
-  6. Análisis de planes
+  6. **Análisis de planes**
     - Comparación entre usuarios del plan básico y premium.
     - Identificación de oportunidades de migración y retención.
-  7. Conclusiones y recomendaciones
+  7. **Conclusiones y recomendaciones**
     - Identificación de segmentos relevantes.
     - Interpretación de patrones de consumo.
     - Recomendaciones para mejorar la oferta de planes de ConnectaTel.
