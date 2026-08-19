@@ -38,10 +38,10 @@
       - Bajo uso.
       - Uso medio.
       - Alto uso.
-  6. **Análisis de planes**
+  6. **Análisis de planes**<br>
     - Comparación entre usuarios del plan básico y premium.
     - Identificación de oportunidades de migración y retención.
-  7. **Conclusiones y recomendaciones**
+  7. **Conclusiones y recomendaciones**<br>
     - Identificación de segmentos relevantes.
     - Interpretación de patrones de consumo.
     - Recomendaciones para mejorar la oferta de planes de ConnectaTel.
