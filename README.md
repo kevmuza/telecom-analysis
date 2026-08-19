@@ -39,12 +39,12 @@
       - Uso medio.
       - Alto uso.
   6. **Análisis de planes**
-    - Comparación entre usuarios del plan básico y premium.
-    - Identificación de oportunidades de migración y retención.
+      - Comparación entre usuarios del plan básico y premium.
+      - Identificación de oportunidades de migración y retención.
   7. **Conclusiones y recomendaciones**
-    - Identificación de segmentos relevantes.
-    - Interpretación de patrones de consumo.
-    - Recomendaciones para mejorar la oferta de planes de ConnectaTel.
+      - Identificación de segmentos relevantes.
+      - Interpretación de patrones de consumo.
+      - Recomendaciones para mejorar la oferta de planes de ConnectaTel.
 
 ### cómo ejecutar el notebook
 
