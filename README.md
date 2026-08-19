@@ -47,5 +47,7 @@
       - Recomendaciones para mejorar la oferta de planes de ConnectaTel.
 
 ### cómo ejecutar el notebook
-
-### una breve guía de reproducción
+  1. Ingresar al repositorio de GitHub.
+  2. Buscar el archivo sprint7-final-project.ipynb.
+  3. Hacer clic sobre el archivo para abrir el notebook directamente en GitHub.
+  4. Para ejecutar las celdas y reproducir el análisis, se puede abrir el notebook en Google Colab seleccionando la opción "Open in Colab" o descargando el archivo .ipynb y abriéndolo en Jupyter Notebook/JupyterLab.
