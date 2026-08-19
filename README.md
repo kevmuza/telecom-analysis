@@ -7,9 +7,9 @@
 ### los datasets utilizados
   El proyecto utiliza tres datasets principales:
 
-  -plans.csv: contiene la información de los planes ofrecidos por **ConnectaTel**, incluyendo las características de los planes básico y premium.
-  -users_latam.csv: contiene la información de los usuarios, como edad, ciudad, plan contratado y fecha de baja.
-  -usage.csv: contiene los registros de uso del servicio, principalmente relacionados con llamadas y mensajes.
+  - plans.csv: contiene la información de los planes ofrecidos por **ConnectaTel**, incluyendo las características de los planes básico y premium.<br>
+  - users_latam.csv: contiene la información de los usuarios, como edad, ciudad, plan contratado y fecha de baja.<br>
+  - usage.csv: contiene los registros de uso del servicio, principalmente relacionados con llamadas y mensajes.<br>
 ### las etapas del análisis realizadas
 
 ### cómo ejecutar el notebook
